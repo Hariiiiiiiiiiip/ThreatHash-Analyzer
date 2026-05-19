@@ -127,7 +127,7 @@ VIRUSTOTAL_API_KEY=your_api_key_here
 
 ```bash
 cd backend
-uvicorn app.main:app --reload
+uvicorn main:app --reload
 ```
 
 Backend runs on:
